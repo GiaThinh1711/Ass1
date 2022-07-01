@@ -1,6 +1,7 @@
 package model;
 
-public class Weather {private String DateTime;
+public class Weather {
+    private String DateTime;
     private String Datetime;
     private int weatherIcon;
     private String iconPhrase;
